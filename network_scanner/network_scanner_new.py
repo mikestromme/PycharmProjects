@@ -27,7 +27,9 @@ def scan(ip):
         print(element[1].psrc + "\t\t" + element[1].hwsrc)
 
 
-
+# get the command line options
 options = get_arguments()
+# call the scan function and save result as variable
 scan_result = scan(options.target)
+#print results
 print_result(scan_result)
