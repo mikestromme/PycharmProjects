@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/mac_changer.iml" filepath="$PROJECT_DIR$/.idea/mac_changer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../network_scanner/.idea/network_scanner.iml" filepath="$PROJECT_DIR$/../network_scanner/.idea/network_scanner.iml" />
     </modules>
   </component>
 </project>
